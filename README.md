@@ -12,7 +12,7 @@ Location: `tools/amd-chipset-cleanup`
 
 ### Temp File Cleaner Utility
 
-A modern Windows cleanup utility with a GUI, scan mode, cleanup presets, summary reporting, and safer aggressive options.
+A modern Windows cleanup utility with a GUI, light and dark themes, scan mode, cleanup presets, summary reporting, and safer aggressive options.
 
 Location: `tools/temp-file-cleaner-utility`
 

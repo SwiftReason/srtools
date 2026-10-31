@@ -20,6 +20,11 @@ $RECYCLE.BIN/
 # Logs
 *.log
 
+# Temp File Cleaner Utility run output and local settings
+tools/temp-file-cleaner-utility/Logs/
+tools/temp-file-cleaner-utility/Summaries/
+tools/temp-file-cleaner-utility/settings.json
+
 # Temp files
 *.tmp
 *.temp
